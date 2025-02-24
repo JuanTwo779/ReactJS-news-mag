@@ -5,6 +5,9 @@
 - Bootstrap UI
 - VITE server
 
+### Vite
+1. npm create vite@latest
+2. npm run dev
 
 ### Notes
 - racfe: Creates a React Arrow Function Component with ES7 module system
